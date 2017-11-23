@@ -5,8 +5,8 @@
          version="2.5">
   <display-name>Webapp</display-name>
   <!--
-  <servlet>
-  <servlet-name>HelloWorldExample</servlet-name>
+   <servlet>
+   <servlet-name>HelloWorldExample</servlet-name>
   <servlet-class>com.example.HelloWorldExample</servlet-class>
   </servlet>
   <servlet-mapping>
