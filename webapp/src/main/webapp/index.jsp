@@ -1,3 +1,2 @@
 Hello, World !
-Changed 05.12.2017
-Juuppii
+Changed 09.04.2018
